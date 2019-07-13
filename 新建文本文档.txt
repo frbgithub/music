@@ -1,0 +1,7 @@
+
+
+npm install fastclick  移动端点击延迟处理
+
+npm install babel-runtime es6 转译
+
+
